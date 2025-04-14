@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings do Projeto -->
+    <string name="appTitulo">Calculadora IMC</string>
+    <string name="btnSet">Calcular</string>
+    <string name="btnReset">Limpar</string>
+    <string name="btnFechar">Fechar</string>
+    <string name="textResultado">-----</string>
+    <string name="textHintPeso">Entre com Peso: </string>
+    <string name="textHintAltura">Entre com Altura:</string>
+    <string name="textPeso">Peso: </string>
+    <string name="textAltura">Altura: </string>
+    <string name="textImc">IMC: </string>
+    <string name="txtAbaixoDoPeso">
+    Seu peso está abaixo do ideal. Procure orientação nutricional para alcançar um peso saudável e fortalecer sua saúde.
+    </string>
+    <string name="txtPesoNormal">
+    Parabéns! Seu peso está dentro dos parâmetros ideais. Mantenha seus hábitos saudáveis e continue cuidando bem de si mesmo.
+    </string>
+    <string name="txtSobrepeso">
+    Atenção! Você apresenta sobrepeso. Considere ajustar sua alimentação e praticar exercícios regularmente.
+    </string>
+    <string name="txtObesidadeGrau1">
+    Você apresenta obesidade grau 1. É importante buscar o acompanhamento de profissionais de saúde, médicos e nutricionistas para adotar um plano de mudanças no estilo de vida.
+    </string>
+    <string name="txtObesidadeGrau2">
+    Atenção! Seu quadro indica obesidade grau 2, o que representa um risco elevado para a sua saúde. É fundamental buscar acompanhamento médico e nutricional.
+    </string>
+    <string name="txtObesidadeGrau3">
+    Atenção! Obesidade grau 3, condição que requer cuidados imediatos. Procure avaliação e acompanhamento especializado.
+    </string>
+
+
+    <!-- Cores do Projeto -->
+    <color name="appColorVerdeEscuro">#006341</color>
+    <color name="appColorVerdeClaro">#00A859</color>
+    <color name="appColorCinzaEscuro">#4D4D4D</color>
+    <color name="appColorCinzaClaro">#B3B3B3</color>
+    <color name="appColorBranco">#FFFFFF</color>
+
+    <color name="appBackGround">#E8EFE8</color>
+
+
+
+</resources>
